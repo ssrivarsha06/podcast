@@ -2,4 +2,4 @@ openai
 requests
 streamlit
 elevenlabs==0.2.27
- 
+pydub
